@@ -194,6 +194,8 @@ init python:
     build.documentation('*.html')
     build.documentation('*.txt')
 
+    build.mac_identity
+
 
 ## A Google Play license key is required to download expansion files and perform
 ## in-app purchases. It can be found on the "Services & APIs" page of the Google
